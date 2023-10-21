@@ -15,10 +15,10 @@ Algumas afirmações de pesquisas feitas nas empresas:
 - A contratação de um novo funcionário custa, em média, $7,5645.00 em uma empresa com aproximadamente 500 funcionários.
 - Demora, em média, 52 dias para um funcionário ocupar sua nova posição.
 
-  De posse dessas informações, o Departamento de Recursos Humanos da IBM-EUA coletou dados de seus funcionários e gostaria de  fazer uma previsão
-  de quais funcionários estão mais propensos a sair de seu emprego.
+De posse dessas informações, o Departamento de Recursos Humanos da IBM-EUA coletou dados de seus funcionários e gostaria de  fazer uma previsão
+de quais funcionários estão mais propensos a sair de seu emprego.
 
-  Alguns exemplos de dados coletados dos funcionários pelo RH:
+Alguns exemplos de dados coletados dos funcionários pelo RH:
 
   - Envolvimento com o trabalho.
   - Escolaridade.
@@ -27,7 +27,7 @@ Algumas afirmações de pesquisas feitas nas empresas:
   - Relacionamento
   - Equilibrio entre as atividades pessoais e profissionais.
  
-    Para esta simulação, o Cientista de Dados irá receber uma Base de Dados do Departamento de RH para fazer análises e a previsão de quem vai deixar a empresa.
+Para esta simulação, o Cientista de Dados irá receber uma Base de Dados do Departamento de RH para fazer análises e a previsão de quem vai deixar a empresa.
     
 
 
