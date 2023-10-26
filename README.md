@@ -31,6 +31,15 @@ Para esta simulação, o Cientista de Dados irá receber uma Base de Dados do De
 
 Algoritmos de classificação utilizado neste estudo:
 
+ - Regressão Logistica
+ - Randon Forest
+ - Gradient-Boosted
+
+  Vencedor: Regressão Logistica
+      
+    Accuracy = 0.903153
+    Test Error = 0.0968468
+
 Dicionário dos dados:
 
   - Educação
@@ -112,14 +121,9 @@ Dicionário dos dados:
   - YearsSinceLastPromotion:..................... AnosDesdeÚltimaPromoção    
   - YearsWithCurrManager:........................ AnosComCurrManager
     
-
-
 Importação das bibliotecas e base de dados
 
 - Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Cálculo de salário: https://www.mom.gov.sg
 - Stock: https://www.moneyunder30.com
   
-
-
-
