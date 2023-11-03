@@ -88,7 +88,7 @@
       <li>3 Bom</li>
       <li>4 Muito Bom</li>
     </ul>
-  
+</ul>
   - Age:....................................... Idade        
   - Attrition:................................. Saiu    
   - BusinessTravel:............................ Viagem de negócios    
