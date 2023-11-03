@@ -36,54 +36,59 @@
     <li>Test Error = 0.0968468</li>
   </ul>
 </ul>
-    
-    
-
-Dicionário dos dados:
-
-  - Educação
-    1 'Abaixo da faculdade'
-    2 'Faculdade'
-    3 'Bacharelado'
-    4 'Mestre'
-    5 'Doutor'
-
-  - Satisfação Ambiental
-    1 'Baixa'
-    2 'Média'
-    3 'Alta'
-    4 'Muito Alta'
-
-  - Envolvimento no Trabalho
-    1 'Baixo'
-    2 'Médio'
-    3 'Alto'
-    4 'Muito Alto'
-
-  - Satisfação no Trabalho
-    1 'Baixa'
-    2 'Média'
-    3 'Alta'
-    4 'Muito Alta'
-
-  - Classificação de Desempenho
-    1 'Baixo'
-    2 'Bom'
-    3 'Excelente'
-    4 'Excelente'
-
-  - RelacionamentoSatisfação
-    1 'Baixa'
-    2 'Média'
-    3 'Alta'
-    4 'Muito Alta'
-
-  - WorkLifeBalance
-    1 'Ruim'
-    2 'Bom'
-    3 'Melhor'
-    4 'Melhor'
-
+<p>Variáveis Categoricas:</p>
+<ul>
+  <li>Educação:</li>
+    <ul>
+      <li>1 Abaixo da faculdade</li>
+      <li>2 Faculdade</li>
+      <li>3 Bacharelado</li>
+      <li>4 Mestre</li>
+      <li>5 Doutor</li>
+    </ul>
+  <li>Satisfação Ambiental:</li>
+    <ul>    
+      <li>1 Baixa</li>
+      <li>2 Média</li>
+      <li>3 Alta</li>
+      <li>4 Muito Alta</li>
+    </ul>
+  <li>Envolvimento No Trabalho:</li>
+    <ul>    
+      <li>1 Baixo</li>
+      <li>2 Médio</li>
+      <li>3 Alto</li>
+      <li>4 Muito Alto</li>
+    </ul> 
+  <li>Satisfação No Trabalho:</li>
+    <ul>    
+      <li>1 Baixa</li>
+      <li>2 Média</li>
+      <li>3 Alta</li>
+      <li>4 Muito Alta</li>
+    </ul>
+  <li>Classificação de Desempenho:</li>
+    <ul>    
+      <li>1 Baixo</li>
+      <li>2 Médio</li>
+      <li>3 Alto</li>
+      <li>4 Muito Alto</li>
+    </ul>
+  <li>RelacionamentoSatisfação:</li>
+    <ul>    
+      <li>1 Baixa</li>
+      <li>2 Média</li>
+      <li>3 Alta</li>
+      <li>4 Muito Alta</li>
+    </ul>
+  <li>RelacionamentoSatisfação:</li>
+    <ul>    
+      <li>1 Ruim
+      </li>2 Regular
+      <li>3 Bom</li>
+      <li>4 Muito Bom</li>
+    </ul>
+  
   - Age:....................................... Idade        
   - Attrition:................................. Saiu    
   - BusinessTravel:............................ Viagem de negócios    
