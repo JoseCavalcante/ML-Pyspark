@@ -89,6 +89,14 @@
       <li>4 Muito Bom</li>
     </ul>
 </ul>
+<p>Dicionário de Dados:</p>
+<table>
+  <tr>
+    <table>
+      <tr><td>Age</td><td>Idade</td></tr>
+    </table>
+  </tr>
+</table>
   - Age:....................................... Idade        
   - Attrition:................................. Saiu    
   - BusinessTravel:............................ Viagem de negócios    
