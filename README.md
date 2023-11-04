@@ -93,7 +93,7 @@
 <table>
   <tr>
     <table>
-      <tr><td>Age</td><td>Idade</td></tr>
+      <tr><td>Age</td><td>&nbsp</td><td>Idade</td></tr>
     </table>
   </tr>
 </table>
