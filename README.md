@@ -133,12 +133,6 @@
 <p>Importação das bibliotecas e base de dados</p>
 <ul>
   <li>Base de dados: <a href:https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset></a></li>
-  <li></li>
-  <li></li>
+  <li>Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset</li>
+  <li>Stock: https://www.moneyunder30.com</li>
 </ul>
-
-
-- Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
-- Cálculo de salário: https://www.mom.gov.sg
-- Stock: https://www.moneyunder30.com
-  
