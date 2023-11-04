@@ -130,7 +130,7 @@
     </table>
   </tr>
 </table>
-<p>Importação das bibliotecas e base de dados</p>
+<p>Bases de dados</p>
 <ul>
   <li>Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset></li>
   <li>Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset</li>
