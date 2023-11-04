@@ -120,7 +120,7 @@
       <tr><td>RelationshipSatisfaction</td><td>Satisfação Relacionamento</td></tr>
       <tr><td>StandardHours</td><td>Horas padrão</td></tr>
       <tr><td>StockOptionLevel</td><td>Nível de opção de estoque</td></tr>
-      <tr><td>TotalWorkingYears</td>Total de anos de trabalho<td></td></tr>
+      <tr><td>TotalWorkingYears</td><td>Total de anos de trabalho</td></tr>
       <tr><td>TrainingTimesLastYear</td><td>Tempos de treinamento Último ano</td></tr>
       <tr><td>WorkLifeBalance</td><td>WorkLifeBalance</td></tr>
       <tr><td>YarsAtCompany</td><td>Anos Na Empresa</td></tr>
