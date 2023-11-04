@@ -93,47 +93,50 @@
 <table>
   <tr>
     <table>
-      <tr><td>Age</td><td>&nbsp</td><td>Idade</td></tr>
+      <tr><td>Age</td><td>Idade</td></tr>
+      <tr><td>Attrition</td><td>Atrito</td></tr>
+      <tr><td>BusinessTravel</td><td>Viagem de negócios</td></tr>
+      <tr><td>DailyRate</td><td>Diária</td></tr>
+      <tr><td>Department</td><td>Departamento</td></tr>
+      <tr><td>DistanceFromHome</td><td>Distância de casa</td></tr>
+      <tr><td>Education</td><td>Educação</td></tr>
+      <tr><td>EducationField</td><td>Campo da educação</td></tr>
+      <tr><td>EmployeeCount</td><td>Contagem de funcionários</td></tr>
+      <tr><td>EmployeeNumber</td><td>Número de empregados</td></tr>
+      <tr><td>EnvironmentSatisfaction</td><td>Satisfação Ambiental</td></tr>
+      <tr><td>Gender</td><td>Gênero</td></tr>
+      <tr><td>HourlyRate</td><td>Taxa Diária</td></tr>
+      <tr><td>JobInvolvement</td><td>Envolvimento no Trabalho</td></tr>
+      <tr><td>JobLevel</td><td>Nível de emprego</td></tr>
+      <tr><td>JobRole</td><td>Cargo de Trabalho</td></tr>
+      <tr><td>JobSatisfaction</td><td>Satisfação no Trabalho</td></tr>
+      <tr><td>MaritalStatus</td><td>Estado Civil</td></tr>
+      <tr><td>MonthlyIncome</td><td>Renda Mensal</td></tr>
+      <tr><td>MonthlyRate</td><td>Taxa Mensal</td></tr>
+      <tr><td>NumCompaniesWorked</td><td>Número de companias que trabalhou</td></tr>
+      <tr><td>Over18</td><td>Mais de 18 anos</td></tr>
+      <tr><td>OverTime</td><td>Ao longo do tempo</td></tr>
+      <tr><td>PercentSalaryHike</td><td>Percentual do Salário</td></tr>
+      <tr><td>RelationshipSatisfaction</td><td>Satisfação Relacionamento</td></tr>
+      <tr><td>StandardHours</td><td>Horas padrão</td></tr>
+      <tr><td>StockOptionLevel</td><td>Nível de opção de estoque</td></tr>
+      <tr><td>TotalWorkingYears</td>Total de anos de trabalho<td></td></tr>
+      <tr><td>TrainingTimesLastYear</td><td>Tempos de treinamento Último ano</td></tr>
+      <tr><td>WorkLifeBalance</td><td>WorkLifeBalance</td></tr>
+      <tr><td>YarsAtCompany</td><td>Anos Na Empresa</td></tr>
+      <tr><td>YearsInCurrentRole</td>Anos na função atual<td></td></tr>
+      <tr><td>YearsSinceLastPromotion</td>Anos Desde Última Promoção<td></td></tr>
+      <tr><td>YearsWithCurrManager</td>Anos na mesma gerência<td></td></tr>
     </table>
   </tr>
 </table>
-  - Age:....................................... Idade        
-  - Attrition:................................. Saiu    
-  - BusinessTravel:............................ Viagem de negócios    
-  - DailyRate:................................. Diária    
-  - Department:................................ Departamento    
-  - DistanceFromHome:.......................... Distância de casa    
-  - Education:................................. Educação    
-  - EducationField:............................ Campo da educação    
-  - EmployeeCount:............................. Contagem de funcionários    
-  - EmployeeNumber:............................ Número de empregado    
-  - EnvironmentSatisfaction:................... Satisfação Ambiental    
-  - Gender:..................................... Gênero    
-  - HourlyRate:................................. Taxa horária    
-  - JobInvolvement:............................. Envolvimento no Trabalho    
-  - JobLevel:................................... Nível de emprego    
-  - JobRole:.................................... Cargo de Trabalho    
-  - JobSatisfaction:............................ Satisfação no Trabalho    
-  - MaritalStatus:............................... Estado civil    
-  - MonthlyIncome:............................... Renda Mensal    
-  - MonthlyRate:................................. Taxa Mensal    
-  - NumCompaniesWorked:.......................... NumCompaniesWorked    
-  - Over18:...................................... Mais de 18    
-  - OverTime:.................................... Ao longo do tempo    
-  - PercentSalaryHike:........................... PorcentagemSalárioCaminhada    
-  - PerformanceRating:........................... Classificação de desempenho    
-  - RelationshipSatisfaction:.................... RelacionamentoSatisfação    
-  - StandardHours:............................... Horas padrão    
-  - StockOptionLevel:............................ Nível de opção de estoque    
-  - TotalWorkingYears:........................... Total de anos de trabalho    
-  - TrainingTimesLastYear:....................... Tempos de treinamentoÚltimo ano    
-  - WorkLifeBalance:............................. WorkLifeBalance    
-  - YarsAtCompany:.............................. AnosNaEmpresa    
-  - YearsInCurrentRole:.......................... Anos na função atual    
-  - YearsSinceLastPromotion:..................... AnosDesdeÚltimaPromoção    
-  - YearsWithCurrManager:........................ AnosComCurrManager
-    
-Importação das bibliotecas e base de dados
+<p>Importação das bibliotecas e base de dados</p>
+<ul>
+  <li>Base de dados: <a href:https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset></a></li>
+  <li></li>
+  <li></li>
+</ul>
+
 
 - Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Cálculo de salário: https://www.mom.gov.sg
