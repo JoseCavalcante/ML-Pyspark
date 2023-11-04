@@ -124,15 +124,15 @@
       <tr><td>TrainingTimesLastYear</td><td>Tempos de treinamento Último ano</td></tr>
       <tr><td>WorkLifeBalance</td><td>WorkLifeBalance</td></tr>
       <tr><td>YarsAtCompany</td><td>Anos Na Empresa</td></tr>
-      <tr><td>YearsInCurrentRole</td>Anos na função atual<td></td></tr>
-      <tr><td>YearsSinceLastPromotion</td>Anos Desde Última Promoção<td></td></tr>
-      <tr><td>YearsWithCurrManager</td>Anos na mesma gerência<td></td></tr>
+      <tr><td>YearsInCurrentRole</td><td>Anos na função atual</td></tr>
+      <tr><td>YearsSinceLastPromotion</td><td>Anos Desde Última Promoção</td></tr>
+      <tr><td>YearsWithCurrManager</td><td>Anos na mesma gerência</td></tr>
     </table>
   </tr>
 </table>
 <p>Importação das bibliotecas e base de dados</p>
 <ul>
-  <li>Base de dados: <a href:https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset></a></li>
+  <li>Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset></li>
   <li>Base de dados: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset</li>
   <li>Stock: https://www.moneyunder30.com</li>
 </ul>
